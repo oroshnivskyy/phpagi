@@ -1,0 +1,5 @@
+{
+    "name": "oroshnivskyy/phpagi",
+    "description": "phpagi is a set of PHP classes for use in developing applications with the Asterisk Gateway Interface",
+    "minimum-stability": "stable"
+}
